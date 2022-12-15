@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mostafa Salama</h1>
 <h3 align="center">Full-Stack JavaScript Developer</h3>
 
-- 🔭 I’m currently working on **React, Vue, Node.**
+- 🔭 I’m currently working on **React, Vue, Node, Angular, MongDB, TypeScript, MicroServices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MostafaSalama](https://github.com/MostafaSalama)
 
-- 📫 Currently I'm looking for a remote job
+- 📫 Currently I'm working as a full stack engineer with Remote Companies ( Conversation24 ( Aka Cobrowser ), Pencil ) 
 
 - 💬 Ask me about **react, vue and node.**
 
