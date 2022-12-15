@@ -8,7 +8,7 @@
 
 - 📫 Currently I'm working as a full stack engineer with Remote Companies ( Conversation24 ( Aka Cobrowser ), Pencil ) 
 
-- 💬 Ask me about **react, vue and node.**
+- 💬 Ask me about **react, vue and node, Angular, TypeScript**
 
 - 📫 How to reach me **mostafatourad789@gmail.com**
 
