@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **mostafatourad789@gmail.com**
 
+- ☕ **[Buy me a coffee](https://buymeacoffee.com/mostafatourad)** - One-time support  
+- 🎯 **[Become a patron](https://www.patreon.com/MostafaTourad)** - Monthly support for ongoing updates
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/mostafatourad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mostafatourad" height="30" width="40" /></a>
